@@ -1,0 +1,178 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;700&display=swap');
+
+BODY{
+    background-image: url(/header-bg.jpg);
+
+
+    background-position:AUTO;
+    margin-bottom: 220px;
+    margin: 0;
+  
+}
+NAV{
+    text-align: RIGHT;
+    
+    
+    
+}
+#II{
+    text-align: left;
+    font-size: large;
+    color: yellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 50px;
+}
+
+ a{
+
+    text-decoration: none;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-right: 50px;
+    
+    
+    
+ }
+ a:hover{
+    color: yellow;
+ }
+ #OPS{
+    text-align: center;
+    margin-top: 170PX;
+
+    color:white;
+    font-weight: bold;
+ }
+ 
+ button{
+    background-color: rgb(220, 197, 17);
+    color: white;
+    font-size:x-small;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 10px;
+    border: none;
+    margin-top: 30px;
+ }
+ button:hover{
+    background-color: rgba(255, 255, 0, 0.489);
+ }
+ #ll{
+    font-size:xx-large;
+    font-weight: 500;
+    font-size: bold;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    font-family:sans-serif;
+
+    
+ }
+ 
+
+ 
+ #service{
+    background-color: WHITE;
+      color: black;
+      MARGIN-TOP:300PX;
+      padding-bottom: 150PX;
+      text-align: center;
+      padding-top: 40PX;
+   
+ 
+  
+   }
+   .row{
+ display: inline-flex;
+ margin-top: 50px;
+ padding-right: 20px;
+
+   }
+   .jn{
+width: 2cm;
+   }
+   .bt{
+    width:2cm ;
+   }
+   .yee{
+    width: 2cm;
+   }
+   div{
+    padding-right: 50px;
+   }
+   
+   #PORTFOLIO{
+margin-top: 0px;
+    background-color: white;
+    text-align: center;
+    padding-top:20px ;
+
+   }
+.hw{
+display: inline-flex;
+margin-right: 10px;
+
+}
+#n{
+    height: 30%;
+    width: 30%;
+    padding-right: 20px;
+}
+#nn{
+    height: 30%;
+    width: 30%;
+    padding-right: 30px;
+}#nnn{
+    height: 30%;
+    width: 30%;
+    padding-right: 30px;
+
+}
+#team{
+    padding-top: 100px;
+    background-color: white;
+    text-align: center;
+    
+}
+.do{
+    display: inline-flex;
+    padding-right: 20px;
+}
+.me{
+ 
+    width: 10cm;
+    padding-right: 20px;
+}
+.mee{
+ width: 10cm;
+    padding-right: 20px;
+}
+.meee{
+   
+    width: 10cm;
+    padding-right: 20px;
+}
+#contact{
+    background-color: rgba(0, 0, 0, 0.473);
+    padding-top: 50px;
+    text-align: center;
+}
+#rli{
+    color: rgb(182, 207, 43);
+    font-size: xx-large;
+}
+
+div{
+    padding: 50px 50px;
+   
+}
+button{
+    border-radius: 20px bold rgba(0, 0, 0, 0.247);
+    padding: 10px 10px;
+    margin: 20px 10px;
+}
+#ooo{
+    color: bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+   
